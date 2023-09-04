@@ -1,0 +1,20 @@
+.wrapper-avatar{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.container-avatar{    
+    height: 70%;    
+    display: flex;
+    align-items: center;
+}
+.avatar{    
+    margin-right: 15px;
+    height: 100%;
+}
+.surname{    }
+
+.grid-header{
+    background-color: #f4f6f8;
+}

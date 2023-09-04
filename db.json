@@ -1,0 +1,86 @@
+{
+    "users": [
+      { 
+      "id": "173d3fc77e", 
+      "avatar": "https://api.multiavatar.com/173d3fc77e.svg", 
+      "surname": "Сенотрусов", 
+      "first_name": "Савва", 
+      "last_name": "Игнатьевич", 
+      "email": "savva71@rambler.ru", 
+      "nikname": "savva71" },
+      { 
+      "id": "0c4a0611e", 
+      "avatar": "https://api.multiavatar.com/0c4a0611e.svg", 
+      "surname": "Аношкина", 
+      "first_name": "Валерия", 
+      "last_name": "Антоновна", 
+      "email": "valeriya.anoshkina@yandex.ru", 
+      "nikname": "valeriya.anoshkina" },
+      { 
+      "id": "3fdf91bba", 
+      "avatar": "https://api.multiavatar.com/3fdf91bba.svg", 
+      "surname": "Нефедова", 
+      "first_name": "Карина", 
+      "last_name": "Прохоровна", 
+      "email": "karina18051984@ya.ru", 
+      "nikname": "karina18051984" },
+      { 
+      "id": "4140f8824", 
+      "avatar": "https://api.multiavatar.com/4140f8824.svg", 
+      "surname": "Гандельмана", 
+      "first_name": "Лана", 
+      "last_name": "Васильевна", 
+      "email": "lana.gandelmana@gmail.com", 
+      "nikname": "lana.gandelmana" },
+      { 
+      "id": "080bd73ac", 
+      "avatar": "https://api.multiavatar.com/080bd73ac.svg", 
+      "surname": "Руснак", 
+      "first_name": "Виктор", 
+      "last_name": "Лаврентиич", 
+      "email": "viktor7711@rambler.ru", 
+      "nikname": "viktor7711" },
+      { 
+      "id": "6c68948d2", 
+      "avatar": "https://api.multiavatar.com/6c68948d2.svg", 
+      "surname": "Сияна", 
+      "first_name": "Инна", 
+      "last_name": "Леонтьевна", 
+      "email": "inna5890@mail.ru", 
+      "nikname": "inna5890" },
+      { 
+      "id": "ea68352a0", 
+      "avatar": "https://api.multiavatar.com/ea68352a0.svg", 
+      "surname": "Богоносцева", 
+      "first_name": "Серафима", 
+      "last_name": "Лаврентьевна", 
+      "email": "serafima9123@ya.ru", 
+      "nikname": "serafima9123" },
+      { 
+      "id": "25d9f4856", 
+      "avatar": "https://api.multiavatar.com/25d9f4856.svg", 
+      "surname": "Панкратова", 
+      "first_name": "Настасья", 
+      "last_name": "Егоровна", 
+      "email": "nastasya.pankratova@rambler.ru", 
+      "nikname": "nastasya.pankratova" },
+      { 
+      "id": "756f68909", 
+      "avatar": "https://api.multiavatar.com/756f68909.svg", 
+      "surname": "Голубцова", 
+      "first_name": "Евгения", 
+      "last_name": "Петровна", 
+      "email": "evgeniya1992@yandex.ru", 
+      "nikname": "evgeniya1992" },
+      { 
+      "id": "620f90242", 
+      "avatar": "https://api.multiavatar.com/620f90242.svg", 
+      "surname": "Ягнышева", 
+      "first_name": "Людмила", 
+      "last_name": "Тарасовна", 
+      "email": "lyudmila.yagnysheva@rambler.ru", 
+      "nikname": "lyudmila.yagnysheva" }
+    ]
+  }
+
+  
